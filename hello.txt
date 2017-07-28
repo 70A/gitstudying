@@ -1,1 +1,7 @@
 hello git！
+
+
+找了很久的错误，
+The project was not built since its build path is incomplete. 
+Cannot find the class file for Java.lang.Object
+一直不知道怎么解决，从这之后所有的项目都有问题，而且都是这个错误，知道刚刚将jre改了，可以正常使用了。
